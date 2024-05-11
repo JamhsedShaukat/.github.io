@@ -236,7 +236,7 @@
     background-color: red;
     box-shadow: inset 0px 0px 15px 0px #00000070;
     border-radius: 30% 70% 40% 60% / 30% 60% 40% 70%;
-    background: url("/homepage.jpg");
+    background: url("homepage.jpg");
     background-size: cover;
   
     /*   This is for this image if your image is good then make
