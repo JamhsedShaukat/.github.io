@@ -39,6 +39,9 @@
   .loader img {
     width: 280px;
   }
+.fav{
+    border-radius: 50%;
+  }
   
   ::-webkit-scrollbar-thumb {
     border-radius: 12px;
